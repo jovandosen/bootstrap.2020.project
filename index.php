@@ -111,6 +111,202 @@
 			    </div>
   			</div>
 
+  			<table class="table table-bordered table-dark">
+  				<thead>
+  					<tr>
+  						<th>ID</th>
+  						<th>NAME</th>
+  						<th>EMAIL</th>
+  					</tr>
+  				</thead>
+  				<tbody>
+  					<tr>
+  						<td>1</td>
+  						<td>Test</td>
+  						<td>test@gmail.com</td>
+  					</tr>
+  					<tr>
+  						<td>2</td>
+  						<td>Test 2</td>
+  						<td>test2@gmail.com</td>
+  					</tr>
+  					<tr>
+  						<td>3</td>
+  						<td>Test 3</td>
+  						<td>test3@gmail.com</td>
+  					</tr>
+  				</tbody>
+  			</table>
+
+  			<table class="table table-hover table-dark">
+  				<thead>
+  					<tr>
+  						<th>ID</th>
+  						<th>NAME</th>
+  						<th>EMAIL</th>
+  					</tr>
+  				</thead>
+  				<tbody>
+  					<tr>
+  						<td>1</td>
+  						<td>Test</td>
+  						<td>test@gmail.com</td>
+  					</tr>
+  					<tr>
+  						<td>2</td>
+  						<td>Test 2</td>
+  						<td>test2@gmail.com</td>
+  					</tr>
+  					<tr>
+  						<td>3</td>
+  						<td>Test 3</td>
+  						<td>test3@gmail.com</td>
+  					</tr>
+  				</tbody>
+  			</table>
+
+  			<table class="table table-hover table-sm table-dark">
+  				<thead>
+  					<tr>
+  						<th>ID</th>
+  						<th>NAME</th>
+  						<th>EMAIL</th>
+  					</tr>
+  				</thead>
+  				<tbody>
+  					<tr>
+  						<td>1</td>
+  						<td>Test</td>
+  						<td>test@gmail.com</td>
+  					</tr>
+  					<tr>
+  						<td>2</td>
+  						<td>Test 2</td>
+  						<td>test2@gmail.com</td>
+  					</tr>
+  					<tr>
+  						<td>3</td>
+  						<td>Test 3</td>
+  						<td>test3@gmail.com</td>
+  					</tr>
+  				</tbody>
+  			</table>
+
+  			<table class="table table-bordered table-dark">
+  				<caption>Data</caption>
+  				<thead>
+  					<tr>
+  						<th>ID</th>
+  						<th>NAME</th>
+  						<th>EMAIL</th>
+  					</tr>
+  				</thead>
+  				<tbody>
+  					<tr class="table-primary">
+  						<td>1</td>
+  						<td>Test</td>
+  						<td>test@gmail.com</td>
+  					</tr>
+  					<tr class="table-secondary">
+  						<td>2</td>
+  						<td>Test 2</td>
+  						<td>test2@gmail.com</td>
+  					</tr>
+  					<tr class="table-success">
+  						<td>3</td>
+  						<td>Test 3</td>
+  						<td>test3@gmail.com</td>
+  					</tr>
+  					<tr class="table-danger">
+  						<td>4</td>
+  						<td>Test 4</td>
+  						<td>test4@gmail.com</td>
+  					</tr>
+  					<tr class="table-warning">
+  						<td>5</td>
+  						<td>Test 5</td>
+  						<td>test5@gmail.com</td>
+  					</tr>
+  				</tbody>
+  			</table>
+
+  			<table class="table table-hover table-responsive">
+  				<thead>
+  					<tr>
+  						<th>ID</th>
+  						<th>NAME</th>
+  						<th>EMAIL</th>
+  						<th>FOO</th>
+  						<th>FOO</th>
+  						<th>FOO</th>
+  						<th>FOO</th>
+  						<th>FOO</th>
+  						<th>FOO</th>
+  						<th>FOO</th>
+  						<th>FOO</th>
+  						<th>FOO</th>
+  						<th>FOO</th>
+  					</tr>
+  				</thead>
+  				<tbody>
+  					<tr>
+  						<td>1</td>
+  						<td>Test</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  					</tr>
+  					<tr>
+  						<td>2</td>
+  						<td>Test 2</td>
+  						<td>test2@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  					</tr>
+  					<tr>
+  						<td>3</td>
+  						<td>Test 3</td>
+  						<td>test3@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  						<td>test@gmail.com</td>
+  					</tr>
+  				</tbody>
+  			</table>
+
+  			<figure class="figure">
+  				<img src="images/image_test.jpg" class="figure-img img-fluid rounded">
+  				<figcaption class="figure-caption">Description text</figcaption>
+  			</figure>
+
+  			<figure class="figure">
+  				<img src="images/img_forest.jpg" class="figure-img img-fluid rounded">
+  				<figcaption class="figure-caption">Description text</figcaption>
+  			</figure>
+
 		</div>
 
 		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
