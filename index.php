@@ -497,6 +497,14 @@
   				</div>
 			</div>
 
+			<div class="media">
+  				<img src="images/image_test.jpg" class="mr-3" alt="testing">
+  				<div class="media-body">
+    				<h5 class="mt-0">Media heading</h5>
+    				Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+  				</div>
+			</div>
+
 		</div>
 
 		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
