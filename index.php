@@ -531,6 +531,36 @@
 			  	</div>
 			</div>
 
+			<ul class="nav nav-tabs" id="myTab" role="tablist">
+  				<li class="nav-item">
+    				<a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Home</a>
+  				</li>
+  				<li class="nav-item">
+    				<a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Profile</a>
+  				</li>
+  				<li class="nav-item">
+    				<a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Contact</a>
+  				</li>
+			</ul>
+			<div class="tab-content" id="myTabContent">
+  				<div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">FOO</div>
+  				<div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">BAR</div>
+  				<div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">BAZ</div>
+			</div>
+
+			<nav>
+  				<div class="nav nav-tabs" id="nav-tab" role="tablist">
+				    <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Home</a>
+				    <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">Profile</a>
+				    <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false">Contact</a>
+  				</div>
+			</nav>
+			<div class="tab-content" id="nav-tabContent">
+			  	<div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">Test</div>
+			  	<div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">Development</div>
+			  	<div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">Example</div>
+			</div>
+
 		</div>
 
 		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
