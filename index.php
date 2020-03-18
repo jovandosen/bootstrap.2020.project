@@ -247,6 +247,7 @@
 					<img src="images/mvc.png" class="img-fluid">
 				</div>
 			</div>
+			<hr class="my-4">
 		</div>
 
 		<!--Connect-->
@@ -272,7 +273,7 @@
 			<div class="container-fluid padding">
 				<div class="row text-center">
 					<div class="col-md-4">
-						<img src="images/image_test.jpg">
+						<img src="images/image_test.jpg" width="200" height="54">
 						<hr class="light">
 						<p>555-555-5555</p>
 						<p>test@test.com</p>
@@ -298,7 +299,7 @@
 						<p>Some place nice</p>
 					</div>
 					<div class="col-12">
-						<hr class="light">
+						<hr class="light-100">
 						<h5>&copy; johndoe.com</h5>
 					</div>		
 				</div>
