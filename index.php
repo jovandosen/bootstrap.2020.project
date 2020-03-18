@@ -54,7 +54,7 @@
 				<div class="carousel-item active">
 					<img src="images/sample.jpg" width="100%" height="500px">
 					<div class="carousel-caption">
-						<h1 class="display-2">Boostrap</h1>
+						<h1 class="display-2">Bootstrap</h1>
 						<h3>Description text</h3>
 						<button type="button" class="btn btn-outline-light btn-lg">VIEW DEMO</button>
 						<button type="button" class="btn btn-primary btn-lg">Get Started</button>
@@ -63,7 +63,7 @@
 				<div class="carousel-item">
 					<img src="images/site.jpg" width="100%" height="500px">
 					<div class="carousel-caption">
-						<h1 class="display-2">Boostrap</h1>
+						<h1 class="display-2">Bootstrap</h1>
 						<h3>Description text</h3>
 						<button type="button" class="btn btn-outline-light btn-lg">VIEW DEMO</button>
 						<button type="button" class="btn btn-primary btn-lg">Get Started</button>
@@ -72,11 +72,24 @@
 				<div class="carousel-item">
 					<img src="images/test.jpg" width="100%" height="500px">
 					<div class="carousel-caption">
-						<h1 class="display-2">Boostrap</h1>
+						<h1 class="display-2">Bootstrap</h1>
 						<h3>Description text</h3>
 						<button type="button" class="btn btn-outline-light btn-lg">VIEW DEMO</button>
 						<button type="button" class="btn btn-primary btn-lg">Get Started</button>
 					</div>
+				</div>
+			</div>
+		</div>
+
+		<!--Jumbotron-->
+
+		<div class="container-fluid">
+			<div class="row jumbotron">
+				<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-10">
+					<p class="lead">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+				</div>
+				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-2">
+					<a href="#"><button type="button" class="btn btn-outline-secondary btn-lg">Web Hosting</button></a>
 				</div>
 			</div>
 		</div>
