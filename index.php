@@ -169,16 +169,16 @@
 			<div class="container-fluid padding">
 				<div class="row text-center">
 					<div class="col-sm-6 col-md-3">
-						<img src="images/test.jpg" class="gif">
+						<img src="images/test.jpg" class="gif img-fluid">
 					</div>
 					<div class="col-sm-6 col-md-3">
-						<img src="images/test.jpg" class="gif">
+						<img src="images/test.jpg" class="gif img-fluid">
 					</div>
 					<div class="col-sm-6 col-md-3">
-						<img src="images/test.jpg" class="gif">
+						<img src="images/test.jpg" class="gif img-fluid">
 					</div>
 					<div class="col-sm-6 col-md-3">
-						<img src="images/test.jpg" class="gif">
+						<img src="images/test.jpg" class="gif img-fluid">
 					</div>
 				</div>
 			</div>
