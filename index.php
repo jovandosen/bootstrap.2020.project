@@ -150,6 +150,88 @@
 			</div>
 		</div>
 
+		<hr class="my-4">
+
+		<!--Fixed Background-->
+
+		<figure>
+			<div class="fixed-wrap">
+				<div id="fixed">
+					
+				</div>
+			</div>
+		</figure>
+
+		<!--Emoji Section-->
+
+		<button class="fun" data-toggle="collapse" data-target="#emoji">click for fun</button>
+		<div id="emoji" class="collapse">
+			<div class="container-fluid padding">
+				<div class="row text-center">
+					<div class="col-sm-6 col-md-3">
+						<img src="images/test.jpg" class="gif">
+					</div>
+					<div class="col-sm-6 col-md-3">
+						<img src="images/test.jpg" class="gif">
+					</div>
+					<div class="col-sm-6 col-md-3">
+						<img src="images/test.jpg" class="gif">
+					</div>
+					<div class="col-sm-6 col-md-3">
+						<img src="images/test.jpg" class="gif">
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!--Meet The Team-->
+
+		<div class="container-fluid padding">
+			<div class="row welcome text-center">
+				<div class="col-12">
+					<h1 class="display-4">Meet the Team</h1>
+				</div>
+				<hr>
+			</div>
+		</div>
+
+		<!--Cards-->
+
+		<div class="container-fluid padding">
+			<div class="row padding">
+				<div class="col-md-4">
+					<div class="card">
+						<img src="images/image_test.jpg" class="card-img-top">
+						<div class="card-body">
+							<h4 class="card-title">John Doe</h4>
+							<p class="card-text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+							<a href="#" class="btn btn-outline-secondary">See Profile</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="card">
+						<img src="images/image_test.jpg" class="card-img-top">
+						<div class="card-body">
+							<h4 class="card-title">Jane Doe</h4>
+							<p class="card-text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+							<a href="#" class="btn btn-outline-secondary">See Profile</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="card">
+						<img src="images/image_test.jpg" class="card-img-top">
+						<div class="card-body">
+							<h4 class="card-title">Tom Doe</h4>
+							<p class="card-text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+							<a href="#" class="btn btn-outline-secondary">See Profile</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
 		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
