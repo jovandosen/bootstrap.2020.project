@@ -30,7 +30,7 @@
 						<a href="about.php" class="nav-link">About</a>
 					</li>
 					<li class="nav-item">
-						<a href="#" class="nav-link">Services</a>
+						<a href="services.php" class="nav-link">Services</a>
 					</li>
 					<li class="nav-item">
 						<a href="#" class="nav-link">Team</a>
