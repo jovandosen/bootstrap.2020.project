@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 	<head>
-		<title>Bootstrap 2020 Project</title>
+		<title>Home</title>
 		<meta charset="utf-8">
     	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
@@ -24,10 +24,10 @@
 			<div class="collapse navbar-collapse" id="navbarResponsive">
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item active">
-						<a href="#" class="nav-link">Home</a>
+						<a href="index.php" class="nav-link">Home</a>
 					</li>
 					<li class="nav-item">
-						<a href="#" class="nav-link">About</a>
+						<a href="about.php" class="nav-link">About</a>
 					</li>
 					<li class="nav-item">
 						<a href="#" class="nav-link">Services</a>

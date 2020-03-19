@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<title>About</title>
+		<meta charset="utf-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+		<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<body>
+
+		<!--NAVIGATION-->
+
+		<nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
+		<div class="container-fluid">
+			<a href="#" class="navbar-brand">
+				<img src="images/image_test.jpg" width="50" height="50">
+			</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarResponsive">
+				<ul class="navbar-nav ml-auto">
+					<li class="nav-item active">
+						<a href="index.php" class="nav-link">Home</a>
+					</li>
+					<li class="nav-item">
+						<a href="about.php" class="nav-link">About</a>
+					</li>
+					<li class="nav-item">
+						<a href="#" class="nav-link">Services</a>
+					</li>
+					<li class="nav-item">
+						<a href="#" class="nav-link">Team</a>
+					</li>
+					<li class="nav-item">
+						<a href="#" class="nav-link">Connect</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		</nav>
+
+		<div id="box-wrapper">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+						<h1>Example text</h1>
+						<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+						<button type="button" class="btn btn-primary btn-lg" id="example-button">Example</button>
+					</div>
+					<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+						<h1>Testing</h1>
+						<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+					</div>
+					<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+						<img src="images/img_forest.jpg" class="img-fluid float-right img-thumbnail">
+					</div>
+				</div>
+			</div>
+			<hr>
+		</div>
+
+		<div id="second-box-wrapper">
+			<div class="container-fluid">
+				<div class="row text-center">
+					<div class="col-12">
+						<h1>Learn stuff</h1>
+						<hr id="learn-stuff-hr">
+					</div>
+					<div class="col-12" id="text-wrap">
+						<p class="lead">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
+					</div>
+					<div class="col-12">
+						<a href="#">Learn more</a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="wrap-elements">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-3">
+						<div class="card special">
+	  						<img src="images/site.jpg" class="card-img-top" alt="foo">
+	  						<div class="card-body">
+	    						<h5 class="card-title">Card title</h5>
+	    						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+	    						<a href="#" class="btn btn-primary">Go somewhere</a>
+	  						</div>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="card special">
+	  						<img src="images/img_forest.jpg" class="card-img-top" alt="foo">
+	  						<div class="card-body">
+	    						<h5 class="card-title">Card title</h5>
+	    						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+	    						<a href="#" class="btn btn-primary">Go somewhere</a>
+	  						</div>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="card special">
+	  						<img src="images/site.jpg" class="card-img-top" alt="foo">
+	  						<div class="card-body">
+	    						<h5 class="card-title">Card title</h5>
+	    						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+	    						<a href="#" class="btn btn-primary">Go somewhere</a>
+	  						</div>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="card special">
+	  						<img src="images/img_forest.jpg" class="card-img-top" alt="foo">
+	  						<div class="card-body">
+	    						<h5 class="card-title">Card title</h5>
+	    						<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+	    						<a href="#" class="btn btn-primary">Go somewhere</a>
+	  						</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<hr>
+		</div>
+		
+		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+	</body>
+</html>
