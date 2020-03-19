@@ -114,6 +114,11 @@ hr.light-100 {
 .wrap-elements {
 	padding: 20px;
 	margin-top: 40px;
+	margin-bottom: 50px;
+}
+
+.add-padding {
+	padding: 0 20px 20px 20px;
 }
 
 /*-- Media Queries --*/
@@ -122,6 +127,9 @@ hr.light-100 {
 	.social a {
 		font-size: 4em;
 		padding: 2rem;
+	}
+	.special {
+		margin-bottom: 10px;
 	}
 }
 
