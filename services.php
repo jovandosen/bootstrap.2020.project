@@ -83,7 +83,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12">
-						<h1 class="text-warning">Featured today</h1>
+						<h1 class="text-warning make-smaller">Featured today</h1>
 					</div>
 				</div>
 			</div>
@@ -127,7 +127,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12">
-						<h1 class="text-warning">What to watch</h1>
+						<h1 class="text-warning make-smaller">What to watch</h1>
 						<div id="heading-container">
 							<h4>Fan favorites</h4>
 						</div>
@@ -208,7 +208,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12">
-						<h1 class="text-warning">Watch free</h1>
+						<h1 class="text-warning make-smaller">Watch free</h1>
 						<div id="heading-container">
 							<h4>Originals</h4>
 						</div>
@@ -247,7 +247,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12">
-						<h1 class="text-warning">Explore what’s streaming</h1>
+						<h1 class="text-warning make-smaller">Explore what’s streaming</h1>
 						<div id="example-title-box">
 							<h4>Example title</h4>
 						</div>
@@ -323,6 +323,158 @@
 				</div>
 			</div>
 		</div>
+
+		<div class="services-carousel-container">
+			<div class="container">
+				<div class="row">
+					<div class="col-12">
+						<h1 class="text-warning make-smaller">Some Cool Stuff</h1>
+						<div id="heading-container">
+							<h4>Bootstrap test</h4>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="services-carousel-container">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 add-card-padding">
+
+						<div class="card flex-row flex-wrap">
+					        <div class="card-header border-0">
+					            <img src="images/site.jpg" alt="" width="100" height="200">
+					        </div>
+					        <div class="card-block px-2">
+					            <h4 class="card-title">Title</h4>
+					            <p class="card-text">Some quick example text.</p>
+					            <p class="card-text">Some quick example text.</p>
+					            <p class="card-text">Some quick example text.</p>
+					        </div>
+					        <div class="w-100"></div>
+    					</div>
+
+					</div>
+					<div class="col-md-4 add-card-padding">
+
+						<div class="card flex-row flex-wrap">
+					        <div class="card-header border-0">
+					            <img src="images/img_forest.jpg" alt="" width="100" height="200">
+					        </div>
+					        <div class="card-block px-2">
+					            <h4 class="card-title">Title</h4>
+					            <p class="card-text">Some quick example text.</p>
+					            <p class="card-text">Some quick example text.</p>
+					            <p class="card-text">Some quick example text.</p>
+					        </div>
+					        <div class="w-100"></div>
+    					</div>
+
+					</div>
+					<div class="col-md-4 add-card-padding">
+
+						<div class="card flex-row flex-wrap">
+					        <div class="card-header border-0">
+					            <img src="images/site.jpg" alt="" width="100" height="200">
+					        </div>
+					        <div class="card-block px-2">
+					            <h4 class="card-title">Title</h4>
+					            <p class="card-text">Some quick example text.</p>
+					            <p class="card-text">Some quick example text.</p>
+					            <p class="card-text">Some quick example text.</p>
+					        </div>
+					        <div class="w-100"></div>
+    					</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="services-carousel-container">
+			<div class="container">
+				<div class="row">
+					<div class="col-12">
+						<h1 class="text-warning make-smaller">Show Stuff</h1>
+						<div id="heading-container">
+							<h4>Development</h4>
+						</div>
+						<h5>Description subtitle</h5>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="services-carousel-container">
+			<div class="container">
+				<div class="row text-center">
+					<div class="col-sm-12 col-md-4 col-lg-2">
+						<img src="images/site.jpg" alt="foo" class="img-fluid make-rounded">
+						<p>John Doe</p>
+					</div>
+					<div class="col-sm-12 col-md-4 col-lg-2">
+						<img src="images/img_forest.jpg" alt="foo" class="img-fluid make-rounded">
+						<p>Jane Doe</p>
+					</div>
+					<div class="col-sm-12 col-md-4 col-lg-2">
+						<img src="images/site.jpg" alt="foo" class="img-fluid make-rounded">
+						<p>John Doe</p>
+					</div>
+					<div class="col-sm-12 col-md-4 col-lg-2">
+						<img src="images/img_forest.jpg" alt="foo" class="img-fluid make-rounded">
+						<p>Jane Doe</p>
+					</div>
+					<div class="col-sm-12 col-md-4 col-lg-2">
+						<img src="images/site.jpg" alt="foo" class="img-fluid make-rounded">
+						<p>John Doe</p>
+					</div>
+					<div class="col-sm-12 col-md-4 col-lg-2">
+						<img src="images/img_forest.jpg" alt="foo" class="img-fluid make-rounded">
+						<p>Jane Doe</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!--Footer-->
+
+		<footer>
+			<div class="container-fluid padding">
+				<div class="row text-center">
+					<div class="col-md-4">
+						<img src="images/image_test.jpg" width="200" height="54">
+						<hr class="light">
+						<p>555-555-5555</p>
+						<p>test@test.com</p>
+						<p>200 Example Street</p>
+						<p>Some place nice</p>
+					</div>	
+					<div class="col-md-4">
+						<hr class="light">
+						<h5>Our Hours</h5>
+						<hr class="light">
+						<p>Monday: 9am - 5pm</p>
+						<p>Saturday: 10am - 4pm</p>
+						<p>Sunday: closed</p>
+						<p>Some place nice</p>
+					</div>	
+					<div class="col-md-4">
+						<hr class="light">
+						<h5>Service Test</h5>
+						<hr class="light">
+						<p>Monday: 9am - 5pm</p>
+						<p>Saturday: 10am - 4pm</p>
+						<p>Some place nice</p>
+						<p>Some place nice</p>
+					</div>
+					<div class="col-12">
+						<hr class="light-100">
+						<h5>&copy; johndoe.com</h5>
+					</div>		
+				</div>
+			</div>
+		</footer>
 
 		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>

@@ -135,6 +135,10 @@ hr.light-100 {
 	width: 15%;
 }
 
+.make-rounded {
+	border-radius: 50%;
+}
+
 /*-- Media Queries --*/
 
 @media (max-width: 992px) {
@@ -188,6 +192,9 @@ hr.light-100 {
 	.add-card-padding {
 		margin-bottom: 10px;
 	}
+	.make-smaller {
+		font-size: 200%;
+	}
 }
 
 @media (max-width: 576px) {
@@ -218,5 +225,8 @@ hr.light-100 {
 	}
 	#example-button {
 		margin-bottom: 5px;
+	}
+	.make-smaller {
+		font-size: 170%;
 	}
 }
