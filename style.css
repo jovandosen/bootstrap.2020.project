@@ -121,6 +121,20 @@ hr.light-100 {
 	padding: 0 20px 20px 20px;
 }
 
+.services-carousel-container {
+	margin-top: 30px;
+}
+
+#heading-container {
+	border-left: 5px solid orange;
+	padding-left: 5px;
+}
+
+#example-title-box {
+	border-bottom: 5px solid orange;
+	width: 15%;
+}
+
 /*-- Media Queries --*/
 
 @media (max-width: 992px) {
@@ -129,6 +143,9 @@ hr.light-100 {
 		padding: 2rem;
 	}
 	.special {
+		margin-bottom: 10px;
+	}
+	.add-card-padding {
 		margin-bottom: 10px;
 	}
 }
@@ -166,6 +183,9 @@ hr.light-100 {
 		font-size: 140%;
 	}
 	.special {
+		margin-bottom: 10px;
+	}
+	.add-card-padding {
 		margin-bottom: 10px;
 	}
 }
