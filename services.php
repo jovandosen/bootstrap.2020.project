@@ -11,37 +11,15 @@
 	</head>
 	<body>
 
-		<!--NAVIGATION-->
+		<?php
+			$services = '';
+			if(isset($_GET['services'])){
+				$services = $_GET['services'];
+			}
+		?>
 
-		<nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
-		<div class="container-fluid">
-			<a href="#" class="navbar-brand">
-				<img src="images/image_test.jpg" width="50" height="50">
-			</a>
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
-				<span class="navbar-toggler-icon"></span>
-			</button>
-			<div class="collapse navbar-collapse" id="navbarResponsive">
-				<ul class="navbar-nav ml-auto">
-					<li class="nav-item active">
-						<a href="index.php" class="nav-link">Home</a>
-					</li>
-					<li class="nav-item">
-						<a href="about.php" class="nav-link">About</a>
-					</li>
-					<li class="nav-item">
-						<a href="services.php" class="nav-link">Services</a>
-					</li>
-					<li class="nav-item">
-						<a href="#" class="nav-link">Team</a>
-					</li>
-					<li class="nav-item">
-						<a href="connect.php" class="nav-link">Connect</a>
-					</li>
-				</ul>
-			</div>
-		</div>
-		</nav>
+		<!--NAVIGATION-->
+		<?php include('header.php'); ?>
 
 		<div class="services-carousel-container">
 			<div class="container">
