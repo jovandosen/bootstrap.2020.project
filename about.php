@@ -146,43 +146,7 @@
 		</div>
 
 		<!--Footer-->
-
-		<footer>
-			<div class="container-fluid padding">
-				<div class="row text-center">
-					<div class="col-md-4">
-						<img src="images/image_test.jpg" width="200" height="54">
-						<hr class="light">
-						<p>555-555-5555</p>
-						<p>test@test.com</p>
-						<p>200 Example Street</p>
-						<p>Some place nice</p>
-					</div>	
-					<div class="col-md-4">
-						<hr class="light">
-						<h5>Our Hours</h5>
-						<hr class="light">
-						<p>Monday: 9am - 5pm</p>
-						<p>Saturday: 10am - 4pm</p>
-						<p>Sunday: closed</p>
-						<p>Some place nice</p>
-					</div>	
-					<div class="col-md-4">
-						<hr class="light">
-						<h5>Service Test</h5>
-						<hr class="light">
-						<p>Monday: 9am - 5pm</p>
-						<p>Saturday: 10am - 4pm</p>
-						<p>Some place nice</p>
-						<p>Some place nice</p>
-					</div>
-					<div class="col-12">
-						<hr class="light-100">
-						<h5>&copy; johndoe.com</h5>
-					</div>		
-				</div>
-			</div>
-		</footer>
+		<?php include('footer.php'); ?>
 		
 		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
