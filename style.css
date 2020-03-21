@@ -139,6 +139,22 @@ hr.light-100 {
 	border-radius: 50%;
 }
 
+.form-elements-container {
+	margin: 30px;
+}
+
+.form-heading-hr {
+	border-top: 3px solid orange;
+}
+
+.form-el-style {
+	border-bottom: 3px solid orange;
+}
+
+.add-margin-for-span {
+	margin-top: 10px;
+}
+
 /*-- Media Queries --*/
 
 @media (max-width: 992px) {
@@ -194,6 +210,9 @@ hr.light-100 {
 	}
 	.make-smaller {
 		font-size: 200%;
+	}
+	.move-box {
+		margin-bottom: 20px;
 	}
 }
 
