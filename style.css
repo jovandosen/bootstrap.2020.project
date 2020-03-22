@@ -202,6 +202,11 @@ hr.light-100 {
 	color: #FF7F50;
 }
 
+.web-development-hr {
+	width: 50%;
+	border-top: 2px solid orange;
+}
+
 /*-- Media Queries --*/
 
 @media (max-width: 992px) {
@@ -272,6 +277,9 @@ hr.light-100 {
 	.add-extra-margin, .margin-bottom-data {
 		margin-top: 10px;
 	} 
+	.push-content {
+		margin-bottom: 10px;
+	}
 }
 
 @media (max-width: 576px) {
