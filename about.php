@@ -15,6 +15,8 @@
 			$about = '';
 			if(isset($_GET['about'])){
 				$about = $_GET['about'];
+			} else {
+				$about = 'active';
 			}
 		?>
 

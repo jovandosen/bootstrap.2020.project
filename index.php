@@ -15,6 +15,8 @@
 			$index = '';
 			if(isset($_GET['index'])){
 				$index = $_GET['index'];
+			} else {
+				$index = 'active';
 			}
 		?>
 

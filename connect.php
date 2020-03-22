@@ -15,6 +15,8 @@
 			$connect = '';
 			if(isset($_GET['connect'])){
 				$connect = $_GET['connect'];
+			} else {
+				$connect = 'active';
 			}
 		?>
 		

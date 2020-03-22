@@ -15,6 +15,8 @@
 			$services = '';
 			if(isset($_GET['services'])){
 				$services = $_GET['services'];
+			} else {
+				$services = 'active';
 			}
 		?>
 
