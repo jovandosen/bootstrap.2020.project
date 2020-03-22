@@ -155,6 +155,32 @@ hr.light-100 {
 	margin-top: 10px;
 }
 
+.some-container-box {
+	margin-top: 20px;
+}
+
+.team-image-container {
+	position: relative;
+}
+
+.team-text-container {
+	position: absolute;
+	left: 160px;
+	bottom: 10px;
+	color: white;
+	font-size: 25px;
+}
+
+.text-smaller {
+	font-size: smaller;
+	margin-bottom: 10px;
+}
+
+.text-smaller img {
+	float: left;
+	margin-right: 10px;
+}
+
 /*-- Media Queries --*/
 
 @media (max-width: 992px) {
@@ -167,6 +193,10 @@ hr.light-100 {
 	}
 	.add-card-padding {
 		margin-bottom: 10px;
+	}
+	.team-text-container {
+		font-size: 23px;
+		left: 70px;
 	}
 }
 
@@ -214,6 +244,13 @@ hr.light-100 {
 	.move-box {
 		margin-bottom: 20px;
 	}
+	.team-text-container {
+		font-size: 22px;
+		left: 160px;
+	}
+	.add-extra-margin {
+		margin-top: 10px;
+	}
 }
 
 @media (max-width: 576px) {
@@ -247,5 +284,9 @@ hr.light-100 {
 	}
 	.make-smaller {
 		font-size: 170%;
+	}
+	.team-text-container {
+		font-size: 20px;
+		left: 150px;
 	}
 }

@@ -17,8 +17,8 @@
 			<li class="nav-item <?php echo (isset($services)) ? $services : '' ?>">
 				<a href="services.php?services=active" class="nav-link">Services</a>
 			</li>
-			<li class="nav-item">
-				<a href="#" class="nav-link">Team</a>
+			<li class="nav-item <?php echo (isset($team)) ? $team : '' ?>">
+				<a href="team.php?team=active" class="nav-link">Team</a>
 			</li>
 			<li class="nav-item <?php echo (isset($connect)) ? $connect : '' ?>">
 				<a href="connect.php?connect=active" class="nav-link">Connect</a>
