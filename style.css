@@ -181,6 +181,27 @@ hr.light-100 {
 	margin-right: 10px;
 }
 
+#links-wrapper li {
+	margin-left: 18px;
+}
+
+#links-wrapper li a {
+	color: black;
+}
+
+#links-wrapper li a:hover {
+	color: #6495ED;
+}
+
+.link-margin-data a {
+	/*margin-bottom: 10px;*/
+	color: black;
+}
+
+.link-margin-data a:hover {
+	color: #FF7F50;
+}
+
 /*-- Media Queries --*/
 
 @media (max-width: 992px) {
@@ -248,9 +269,9 @@ hr.light-100 {
 		font-size: 22px;
 		left: 160px;
 	}
-	.add-extra-margin {
+	.add-extra-margin, .margin-bottom-data {
 		margin-top: 10px;
-	}
+	} 
 }
 
 @media (max-width: 576px) {
